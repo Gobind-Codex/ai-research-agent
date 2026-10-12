@@ -1,0 +1,9 @@
+PyMuPDF
+pytest
+chromadb
+streamlit
+groq
+python-dotenv
+sentence-transformers
+torchvision
+python-dotenv
